@@ -1,5 +1,5 @@
 // Easy Responsive Tabs Plugin
-// Author: Samson.Onna <Email : raushang4@gmail.com>
+// Author: RAUSHAN KUMAR <Email : raushang4@gmail.com>
 (function ($) {
     $.fn.extend({
         easyResponsiveTabs: function (options) {
